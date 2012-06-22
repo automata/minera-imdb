@@ -1,0 +1,12 @@
+syntax: glob
+build
+dist
+*.egg-info
+*.mo
+*.pyc
+*.pyo
+*.so
+*.pyd
+*~
+*.swp
+setuptools-*.egg
